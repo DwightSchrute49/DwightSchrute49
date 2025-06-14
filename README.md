@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://gifdb.com/images/high/penguin-wizard-coding-hat-typing-desk-vqgfdftsfwxxrqct.gif" width="300px" alt="Penguin coding wizard" />
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300px" alt="Penguin coding" />
 </p>
 
-<p align="center"><em>Channeling my inner penguin wizard while coding AI magic 🐧✨</em></p>
+<p align="center"><em>Channeling my inner coding penguin 🐧✨</em></p>
 
 <h1 align="center">Hi 👋, I'm Siddhartha Singh</h1>
 <h3 align="center">AI & Full-Stack Developer | Problem Solver | Stock Market Enthusiast 📈💼</h3>
