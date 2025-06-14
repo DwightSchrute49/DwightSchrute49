@@ -3,6 +3,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=AI+Developer+in+training...;Full-Stack+MERN+Developer;LeetCode+Daily+Streaker;Flask+%26+Django+Backend+Dev;KL+Rahul+and+Ronaldo+are+GOATs;Investor+in+the+Making+📊" />
+
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250px">
+
 </p>
 
 ---
