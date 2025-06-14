@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300px" alt="Penguin coding" />
-</p>
+<div align="center" style="background-color: #fff700; padding: 20px; border-radius: 12px;">
 
-<p align="center"><em>Channeling my inner coding penguin 🐧✨</em></p>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300px" alt="Penguin coding" />
+  
+  <p><em>Channeling my inner coding penguin 🐧✨</em></p>
+
+</div>
 
 <h1 align="center">Hi 👋, I'm Siddhartha Singh</h1>
 <h3 align="center">AI & Full-Stack Developer | Problem Solver | Stock Market Enthusiast 📈💼</h3>
