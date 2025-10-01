@@ -1,33 +1,30 @@
-<div align="center" style="background-color: #fff700; padding: 20px; border-radius: 12px;">
-
+<div align="center" style="background-color: #fffa00; padding: 20px; border-radius: 12px;">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300px" alt="Penguin coding" />
-  
-  <p><em>🐧✨</em></p>
-
+  <p><em>🚀 Turning ideas into algorithms & pixels</em></p>
 </div>
 
 <h1 align="center">Hi 👋, I'm Siddhartha</h1>
-<h3 align="center">AI & Full-Stack Developer | Problem Solver | Stock Market Enthusiast 📈💼</h3>
+<h3 align="center">Gen AI Developer | ML Engineer | CV Geek | Full-Stack Jack-of-All-Trades 🤹‍♂️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=AI+Developer+in+training...;Full-Stack+MERN+Developer;LeetCode+Daily+Streaker;Flask+%26+Django+Backend+Dev;KL+Rahul+and+Ronaldo+are+GOATs;Investor+in+the+Making+📊" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=550&lines=AI+Enthusiast+%26+CV+Geek;ML+Engineer+%26+Deep+Learning+Explorer;Full-Stack+Dev+%28MERN+%26+Python%29;LeetCode+Problem+Solver+%26+Algo+Ninja;Jack+of+All+Trades+🎯;KL+Rahul+and+Devank+Dalal+Fan+%F0%9F%91%8D" />
 </p>
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Tech Stack & Tools
 
 ```bash
-💻 Languages: Java, Python, JavaScript, C, C++
+💻 Languages: Python, Java, JavaScript, SQL , C
 
 🌐 Frontend: React.js, HTML5, CSS3, Tailwind CSS
 
-🛠️ Backend: Node.js, Express.js, Django, Flask
+🛠️ Backend: Node.js, Express.js, Django, Flask, FastAPI, Prisma
 
-🧱 Databases: MongoDB, MySQL
+🧱 Databases: MongoDB, MySQL, PostgreSQL, SQLite (via Prisma)
 
-🧠 AI/ML: NumPy, Pandas, Scikit-learn, TensorFlow (Learning)
+🧠 AI/ML & CV: NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, MediaPipe
 
-☁️ Tools: Git, GitHub, Postman, Docker (Exploring)
+☁️ Dev Tools: Git, GitHub, Docker, Postman, VS Code, Linux
 
-📚 Currently Learning: AI Development + DevOps
+📚 Learning: Advanced Deep Learning, Computer Vision, LLMs, MLOps
