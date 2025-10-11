@@ -6,10 +6,9 @@
 <h1 align="center">Hi 👋, I'm Siddhartha</h1>
 <h3 align="center">Gen AI Developer | ML Engineer | CV Geek | Full-Stack Jack-of-All-Trades 🤹‍♂️</h3>
 
+### Leetcode stats :
+![LeetCode Stats](https://leetcode-readme-stats.vercel.app/api?username=Dwightcodes&theme=tokyonight)
 
-
-### LeetCode
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com?username=Dwightcodes&theme=tokyonight)
 
 
 
