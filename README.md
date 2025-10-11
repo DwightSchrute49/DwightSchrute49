@@ -6,13 +6,11 @@
 <h1 align="center">Hi 👋, I'm Siddhartha</h1>
 <h3 align="center">Gen AI Developer | ML Engineer | CV Geek | Full-Stack Jack-of-All-Trades 🤹‍♂️</h3>
 
-## 📊 Coding Stats
+
 
 ### LeetCode
 ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com?username=Dwightcodes&theme=tokyonight)
 
-### GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DwightSchrute49&show_icons=true&theme=tokyonight)
 
 
 <p align="center">
